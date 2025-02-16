@@ -58,8 +58,5 @@ class Petshop{
             return this->harga;
         }
 
-        void tulis(){
-            cout<< nama_produk << endl;
-        }
         ~Petshop() {}
 };
